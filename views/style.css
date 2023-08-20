@@ -71,6 +71,14 @@ a {
 	min-width:46%;
 	margin-left: 10px;
 	font-size: medium;
+	display: flex;
+	align-items: center;
+	text-decoration: none;
+}
+
+.w3-dropdown-content li{
+	list-style: none;
+	padding: 5px;
 }
 
  .dropbtn{
