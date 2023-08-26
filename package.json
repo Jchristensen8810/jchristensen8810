@@ -24,6 +24,7 @@
     "w3": "^2.0.2"
   },
   "devDependencies": {
+    "@types/nodemailer": "^6.4.9",
     "nodemon": "^2.0.22"
   }
 }

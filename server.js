@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const nodemailer = require('nodemailer');
 
-const PORT = process.env.PORT || 5500;
+const PORT = process.env.PORT || 5000;
 
 //middleware
 app.use(express.static('views'));

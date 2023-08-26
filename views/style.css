@@ -11,10 +11,10 @@
 body{
 	background-image: url(/banners/landingpage.jpg);
 	background-repeat: no-repeat;
-	background-size: 100% 55%;
 	-webkit-background-size: 100% 55%;
 	-moz-background-size:100% 55%;
 	-o-background-size: 100% 55%;
+	background-size: 100% 55%;
 }
 
 
@@ -161,10 +161,10 @@ a {
 	body {
 		background-image: url(/banners/landingpage.jpg);
 		background-repeat: no-repeat;
-		background-size:100% 50%;
 		-webkit-background-size: 100% 60%;
 		-moz-background-size: 100% 60%;
 		-o-background-size:100% 60%;
+		background-size:100% 50%;
 	}
 	}
 	
@@ -177,10 +177,10 @@ a {
 body {
 	background-image: url(/banners/landingpage.jpg);
 	background-repeat: no-repeat;
-	background-size: 100% 50%;
 	-webkit-background-size: 100% 60%;
 	-moz-background-size: 100% 60%;
 	-o-background-size: 100% 60%;
+	background-size: 100% 50%;
 }
 }
 
@@ -194,10 +194,10 @@ body {
 	body {
 		background-image: url(/banners/landingpage.jpg);
 		background-repeat: no-repeat;
-		background-size: 100% 55%;
 		-webkit-background-size: 100% 55%;
 		-moz-background-size: 100% 55%;
 		-o-background-size: 100% 55%;
+		background-size: 100% 55%;
 	}
 		
 	}
@@ -212,10 +212,10 @@ body {
 body {
 	background-image: url(/banners/landingpage.jpg);
 	background-repeat: no-repeat;
-	background-size: 100% 55%;
 	-webkit-background-size: 100% 55%;
 	-moz-background-size: 100% 55%;
 	-o-background-size: 100% 55%;
+	background-size: 100% 55%;
 }
 
 }
