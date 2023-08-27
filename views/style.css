@@ -56,6 +56,8 @@ a {
 .about-me h2{
 	font-family: "Courier New", monospace;
 	color:#2e8b32;
+	text-shadow: 2px 2px 0 #ffffff;
+	font-size: 35px;
 }
 
 .about-me{
@@ -64,6 +66,18 @@ a {
 	color: #2e8b32;
 }
 
+.about-me .w3-row{
+	text-shadow: 1px 1px 0 #ffffff;
+	font-weight: 600;
+}
+
+.about-me .para1{
+	padding-right: 40px;
+}
+
+.about-me .para3{
+	padding-left: 40px;
+}
 
 /* for dropbuttons */
 .btn-group-vertical{
@@ -74,6 +88,18 @@ a {
 	display: flex;
 	align-items: center;
 	text-decoration: none;
+}
+
+.w3-dropdown-content{
+	width: 100%;
+}
+
+.w3-dropdown-content .list1{
+	float: left;
+}
+
+.w3-dropdown-content .list2 {
+	float: right;
 }
 
 .w3-dropdown-content li{
@@ -91,12 +117,25 @@ a {
 	min-width: 300px;
 }
 
+#btncontainer .dropbtn{
+   width: 50%;
+   height: 50%;
+}
 
     /* contact form */
 
 /* .contact-header{
 	height: max-content;
 } */
+
+.contact-header{
+	font-size: 18px;
+}
+
+.contact-header h1{
+	font-weight: 900;
+	font-size: 23px;
+}
 
 #contact{
 	width: 100%;
@@ -142,6 +181,10 @@ a {
 
 	#contactus button:hover{
 		background-color: #2e8b32 !important;
+	}
+
+	#contactus textarea{
+		resize: none;
 	}
 
 
