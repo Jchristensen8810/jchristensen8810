@@ -1,5 +1,9 @@
 {
-  "name": "node server",
+<<<<<<< HEAD
+  "name": "Node server",
+=======
+  "name": "Node server",
+>>>>>>> 3747fc7e460c75872e031dec6b32da9b4d76245a
   "version": "1.0.0",
   "description": "node server",
   "main": "app.js",
