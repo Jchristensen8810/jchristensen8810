@@ -1,8 +1,8 @@
 {
-  "name": "my-portfolio",
+  "name": "node server",
   "version": "1.0.0",
-  "description": "",
-  "main": "script.js",
+  "description": "node server",
+  "main": "app.js",
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js"
