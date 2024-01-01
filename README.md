@@ -1,1 +1,1 @@
-jchristensen8810.github.io/christdev/views/index.html
+jchristensen8810.github.io/jchristensen8810/views/index.html
